@@ -1,0 +1,19 @@
+{
+    "name": "phparmory/middleware",
+    "description": "Simple but extendable middleware",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard Crosby",
+            "email": "rphcrosby@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Armory\\Middleware\\": "src/"
+        }
+    }
+}
